@@ -15,5 +15,5 @@ A practice companion for 12-hole soprano-C transverse ocarina players. Displays 
 If you have questions, feedback, or need help with the app, please reach out:
       
 - **Email:** [far.leaf8742@fastmail.com](mailto:far.leaf8742@fastmail.com)
-- **Issues:** [GitHub Issues](../../issues)
+- **Issues:** [GitHub Issues](https://github.com/millerjeff0/OcarinaTrainer-issues/issues)
 - **Website:** [undertreephotography.com/ocarinatrainer](https://undertreephotography.com/ocarinatrainer)
